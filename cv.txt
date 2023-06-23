@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>DASUN KAVINDA </title>
+
+</head>
+
+<body style ="background-color:green;">
+
+<center>
+
+<h1><u>CURRICULUM VITAE</u></h1>
+
+</center>
+
+<center>
+
+<img src="deba/WhatsApp%20Image%202023-06-12%20at%2000.51.06.jpeg" width="200" height="250">
+
+</center>
+
+<hr>
+
+<center>
+
+<h2 style="font-size:180%;"><b>Contact Info</b></h2>
+
+</center>
+
+<hr>
+
+<pre style = "font-size:150%;"> 
+
+<b>Address</b>         :No3,Polgollawaththa,Pathinwaththa,Lokahettiya
+
+<b>Mobile Number</b>   :0760590030
+
+<b>Email Address</b>   :dasunbandara030@gmail.com
+
+</pre>
+
+<hr>
+
+<center>
+
+<h2 style = "font-size:180%;"><b>Personal Particulars</b></h2>
+
+</center>
+
+<hr>
+
+<pre style = "font-size:150%;">
+
+<b>Name</b>            :Dasun Kavinda Bandara
+
+<b>Date of birth</b>   :2000/10/20
+
+<b>Age</b>             :22
+
+<b>Gender</b>          :Male
+
+<b>Nationality</b>     :Sinhala
+
+<b>Marital Status</b>  :Single
+
+</pre>
+
+<hr>
+
+<center>
+
+<h2 style = "font-size:180%;"><b>Educational Background</b></h2>
+
+</center>
+
+<hr>
+
+<pre style = "font-size:150%;">
+
+<b>School</b>          :Maliyadewa College-Kurunegala
+
+<b>O/L Result</b>      :A-2,B-5,C-2(2016)
+
+<b>A/L Result</b>      :CCS(2020)
+
+</pre>
+
+<hr>
+
+<center>
+
+<h2 style ="font-size:180%;"><b>Work Experience</b></h2>
+
+</center>
+
+<hr>
+
+<ul>
+
+<li><p>Work at HNB PLC-11 Months(INTERN)</p></li>
+
+</ul>
+
+<hr>
+
+<center>
+
+<h2 style= "font-size:180%;"><b>Additonal Skills</b></h2>
+
+</center>
+
+<hr>
+
+<pre style ="font-size:150%">
+
+<ul>
+<li>HTMl,CSS,JAVASCRIPT</li>
+<li>Programming C</li>
+
+<li>Microsoft Powerpoint</li>
+
+<li>Microsoft Excel</li>
+
+<li>Microsoft Word</li>
+
+
+
+</ul>
+
+</pre>
+    </body>
+</html>
+
+
+
