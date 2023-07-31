@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>Page Background Color Changer</title>
+  <style>
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border: none;
+      border-radius: 4px;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <button id="red-btn" onmouseover="changeBackgroundColor('red')" onmouseout="resetBackgroundColor()">Red</button>
+  <button id="green-btn" onmouseover="changeBackgroundColor('green')" onmouseout="resetBackgroundColor()">Green</button>
+  <button id="blue-btn" onmouseover="changeBackgroundColor('blue')" onmouseout="resetBackgroundColor()">Blue</button>
+
+  <script>
+    function changeBackgroundColor(color) {
+      document.body.style.backgroundColor = color;
+    }
+
+    function resetBackgroundColor() {
+      document.body.style.backgroundColor = '';
+    }
+  </script>
+</body>
+</html>

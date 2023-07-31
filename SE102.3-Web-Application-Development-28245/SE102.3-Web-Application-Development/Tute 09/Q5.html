@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>Day of the Week</title>
+</head>
+<body>
+  <script>
+    function displayDayOfWeek() {
+      const userInput = prompt("Enter a number from 1 to 7:");
+        
+      const dayNumber = parseInt(userInput);
+
+      if (isNaN(dayNumber) || dayNumber < 1 || dayNumber > 7) {
+        alert("Invalid input. Please enter a number from 1 to 7.");
+        return;
+      }
+
+      const daysOfWeek = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday","Sunday"];
+      
+      const dayName = daysOfWeek[dayNumber - 1];
+
+      alert("The day of the week is: " + dayName);
+    }
+
+    displayDayOfWeek();
+  </script>
+</body>
+</html>
